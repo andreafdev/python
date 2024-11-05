@@ -1,7 +1,7 @@
-# Informações do leitor
+# Informações do leitor.
 
 leitor = {
-    'nome': "Andrea",
+    'nome': "Andrea ",
     'nivel': 1,
     'pontos_livro': 0,  # Pontos de leitura acumulados
     'experiencia': 0,    # Experiência acumulada
